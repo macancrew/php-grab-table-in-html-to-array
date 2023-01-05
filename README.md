@@ -9,3 +9,6 @@
 
 # penampakan hasil proses dalam bentuk array
 <img src="https://raw.githubusercontent.com/macancrew/php-grab-table-in-html-to-array/main/ta4.jpg">
+
+# penampakan hasil proses dalam bentuk json
+<img src="https://raw.githubusercontent.com/macancrew/php-grab-table-in-html-to-array/main/ta6.jpg">
